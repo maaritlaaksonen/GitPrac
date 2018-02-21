@@ -1,3 +1,4 @@
 I love SAS
 I love R
 I hate SPSS
+I'm two minds about Stata
